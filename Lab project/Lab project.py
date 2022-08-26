@@ -1,5 +1,5 @@
 #Lab project
-#Abdullah AlQudaihi 202066280 
+#Abdullah AlQudaihi 
 from math import sqrt
 def main():
     print("starting")
